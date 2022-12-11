@@ -1,0 +1,13 @@
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\bin\Debug\workingwithDB_05_12_2022.exe.config
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\bin\Debug\workingwithDB_05_12_2022.exe
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\bin\Debug\workingwithDB_05_12_2022.pdb
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\obj\Debug\workingwithDB_05_12_2022.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\obj\Debug\workingwithDB_05_12_2022.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\obj\Debug\workingwithDB_05_12_2022.Form1.resources
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\obj\Debug\workingwithDB_05_12_2022.Properties.Resources.resources
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\obj\Debug\workingwithDB_05_12_2022.csproj.GenerateResource.cache
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\obj\Debug\workingwithDB_05_12_2022.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\obj\Debug\workingwithDB_05_12_2022.exe
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\obj\Debug\workingwithDB_05_12_2022.pdb
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\obj\Debug\workingwithDB_05_12_2022.Form2.resources
+C:\Users\User\source\repos\workingwithDB_05_12_2022\workingwithDB_05_12_2022\obj\Debug\workingwithDB_05_12_2022.Form3.resources
